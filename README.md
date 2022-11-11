@@ -1,2 +1,3 @@
-# Image_changer_chrome_extension
-It is an extension for changing the image. it changes all the image which are displaying on the screen.
+# Image-Changer-Chrome-Extension
+You click on this google chrome extension to 
+change the all the images displaying on the screen.
